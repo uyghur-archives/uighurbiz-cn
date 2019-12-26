@@ -1,0 +1,23 @@
+BODY {
+ FONT: 9pt "ËÎÌו" color:#000000; 
+scrollbar-face-color: #B0EA5B;
+scrollbar-highlight-color: #ffffff;
+scrollbar-shadow-color: #65B416;
+;scrollbar-3dlight-color: #65B416;
+scrollbar-arrow-color:#65B416;
+scrollbar-track-color: #f7f7f7;
+scrollbar-darkshadow-color: #ffffff;}
+
+}
+TABLE {
+	FONT-SIZE: 9pt; FONT-FAMILY: ËÎÌו
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: ËÎÌו
+}
+.aup  {
+        CURSOR: hand
+}
+.adown {
+        CURSOR: hand
+}
